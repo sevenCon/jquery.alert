@@ -4,8 +4,6 @@
 (function () {
     function AlenaDialog(){
 
-
-
     }
 
     $.fn.extends({
